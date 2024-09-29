@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: darkslateblue;
+}
+
+header {
+    background-color: darkorchid;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: rgb(255, 189, 68);
+    text-transform: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+p {
+    line-height: 1.6;
+    color: rgb(195, 252, 252);
+    text-transform: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.logo {
+    width: 100px;
+    margin: 0 20px;
+}
+
+div{
+    background-color: darkviolet;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 15px;
+}
+
+li{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+strong{
+    color: goldenrod;
+}
